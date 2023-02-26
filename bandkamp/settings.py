@@ -164,7 +164,7 @@ AUTH_USER_MODEL = "users.User"
 
 
 SPECTACULAR_SETTINGS = {
-    "TITLE": "Kenzie Buster API",
+    "TITLE": "Band Kamp API",
     "DESCRIPTION": "Project that users cam register albums and songs",
     "VERSION": "1.0.0",
     "SERVE_INCLUDE_SCHEMA": True,
